@@ -1,0 +1,5 @@
+__pycache__/
+.env
+# persönliche Daten: Spotify-Login, Cache, Reports
+data/
+reports/
